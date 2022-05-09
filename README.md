@@ -1,4 +1,4 @@
-#HEROKU FORK!!! (see https://github.com/LDomadia/c-546-group-19-project for main version that will work locally)
+# HEROKU FORK!!! (see https://github.com/LDomadia/c-546-group-19-project for main version that will work locally)
 
 # CS 546 - Group 19 - Final Project | Digital Closet
 A website that allows you to take images of your clothes and upload them online. Users can then create digital outfits from the clothes they upload.
